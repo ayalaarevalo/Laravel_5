@@ -1,0 +1,24 @@
+{
+  "name": "Homestead",
+  "version": "0.0.1",
+  "description": "Aprendiendo el manejo de Laravel 5",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Alberto Alfonso Ayala Arevalo"
+  ],
+  "license": "MIT",
+  "homepage": "Homestead.app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design" : "~0.3.0"
+  }
+}
